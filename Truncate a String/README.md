@@ -6,7 +6,7 @@ The truncateString function is a utility function that truncates a given string 
 
 truncateString(str, num)
 
-str (string): The input string to be truncated.
+str (string): The input string to be truncateId.
 
 num (number): The maximum number of characters allowed in the truncated string.
 
