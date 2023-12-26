@@ -4,14 +4,15 @@ The `Person` function creates a person object with methods to get and set the fi
 
 ## Usage
 
-```javascript
 const bob = new Person("Bob Ross");
 console.log(bob.getFullName());
 
 Example
 const bob = new Person("Bob Ross");
 console.log(bob.getFullName());
+
 Output:
+
 Bob Ross
 In this example, a Person object named bob is created with the full name "Bob Ross". The getFullName method is used to retrieve the full name, which is then logged to the console.
 
@@ -24,7 +25,8 @@ setLastName(name): Sets the last name of the person.
 setFullName(name): Sets the full name of the person.
 Feel free to customize and expand upon this readme.md file with additional information or examples related to the Person object.
 
-License
+## Licence
+
 This project is licensed under the MIT License.
 
 
