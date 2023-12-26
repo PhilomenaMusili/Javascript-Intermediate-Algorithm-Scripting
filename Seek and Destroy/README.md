@@ -25,6 +25,7 @@ The resulting array is [1, 3, 5] as the values 2 and 4 are removed from the orig
 Note: It is recommended to use the rest parameter syntax (...valsToRemove) for improved readability and compatibility with arrow functions.
 
 ## License
+
 This project is licensed under the MIT License. 
 
 
