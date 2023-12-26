@@ -6,7 +6,7 @@ The `pairElement` function is a utility function that takes a string of DNA sequ
 
 ## Usage
 
-```javascript
+
 const result = pairElement("GCG");
 console.log(result);
 
@@ -20,7 +20,7 @@ Output:
 License
 This project is licensed under the MIT License.
 
-Feel free to modify and expand upon this `readme.md` file as needed.
+
 
 
 
